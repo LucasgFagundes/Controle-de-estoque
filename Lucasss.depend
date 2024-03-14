@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1685986435 source:c:\users\usuario\desktop\renan aeds ii\lucasss\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"produto.h"
+	"cliente.h"
+
+1685987122 c:\users\usuario\desktop\renan aeds ii\lucasss\produto.h
+
+1685554929 source:c:\users\usuario\desktop\renan aeds ii\lucasss\produto.c
+	<stdio.h>
+	"produto.h"
+	<windows.h>
+
+1685982505 source:c:\users\usuario\desktop\renan aeds ii\lucasss\cliente.c
+	<stdio.h>
+	"cliente.h"
+	<windows.h>
+
+1685381286 c:\users\usuario\desktop\renan aeds ii\lucasss\cliente.h
+
+1685986691 source:c:\users\usuario\desktop\renan aeds ii\lucasss\interface.c
+	<stdio.h>
+	"interface.h"
+	<windows.h>
+	<windows.h>
+
+1685985051 c:\users\usuario\desktop\renan aeds ii\lucasss\interface.h
+
+1685968104 source:c:\users\lucas\onedrive\햞ea de trabalho\lucasss\cliente.c
+	<stdio.h>
+	"cliente.h"
+	<windows.h>
+
+1685366886 c:\users\lucas\onedrive\햞ea de trabalho\lucasss\cliente.h
+
+1685972290 source:c:\users\lucas\onedrive\햞ea de trabalho\lucasss\interface.c
+	<stdio.h>
+	"interface.h"
+	<windows.h>
+	<windows.h>
+
+1685970650 c:\users\lucas\onedrive\햞ea de trabalho\lucasss\interface.h
+
+1685972034 source:c:\users\lucas\onedrive\햞ea de trabalho\lucasss\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"produto.h"
+	"cliente.h"
+
+1685972722 c:\users\lucas\onedrive\햞ea de trabalho\lucasss\produto.h
+
+1710424080 source:c:\users\lucas\onedrive\햞ea de trabalho\lucasss\produto.c
+	<stdio.h>
+	"produto.h"
+	<windows.h>
+
